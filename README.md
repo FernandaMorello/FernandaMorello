@@ -8,7 +8,7 @@ Sou estudante de **Desenvolvimento de Sistemas**, com foco em **Análise de Dado
 ## 📌Sobre mim
 👩‍💻 Estudante de **Desenvolvimento de Sistemas** na **ETEC Albert Einstein**<br>
 📚 Desenvolvendo meu TCC: **Entrelaços**, uma plataforma para conectar voluntários, ONGs e doadores.<br>
-💻 Estudos focados em **Python, Machine Learning, IA, SQL e BI**<br>
+💻 Estudos focados em **Python, Machine Learning, IA, Jupyter e BI**<br>
 📊 Certificada em **Excel**<br>
 🌐 Domínio de **inglês**<br>
 💡 Proativa e sempre em busca de **aprender novas tecnologias e aprimorar minhas habilidades**<br>
